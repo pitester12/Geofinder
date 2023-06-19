@@ -1,3 +1,5 @@
+#original code by pitester12
+#code that pairs well with the camhacker that gives you lon-lat location Btw, a 11 year old wrote this.
 import time
 from geopy.geocoders import Nominatim
 from random import randint
@@ -61,7 +63,7 @@ print("                                  |     ( 📍`,  .`\ ;'| ")
 print("                                   \     | .'     `-'/ ")
 print("                                    `.   ;/        .' ")
 print("                                      `'-._____.-' ")
-print("                              Original Code By: Isaac Page, ")
+print("                              Original Code By: Pi Tester 12, ")
 print(" ")
 def fake_loading_bar():
     for _ in range(3):
