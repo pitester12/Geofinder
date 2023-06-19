@@ -6,12 +6,12 @@ How to put in longitude and latitude and reseve an address
 - 💞️ I’m looking to collaborate on kali linux
 - 📫 How to reach me: email me oaktreepage@outlook.com or oaktreepage@gmail.com
 
-how to install: (Kali linux, Mint linux, Ubuntu and Debian linux
+how to install: (Kali linux, Mint linux, Ubuntu and Debian linux)
 
 sudo apt install pip && sudo pip install geopy && git clone https://github.com/pitester12/Geofinder
 
 how to run:
-cd pitester12 && python3 geofinder.py
+cd Geofinder && python3 geofinder.py
 
 that should work!
 put in your longitude then latitude and it will find the address
