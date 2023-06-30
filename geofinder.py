@@ -1,3 +1,5 @@
+#could use some coloring
+#chatgpt helped
 #original code by pitester12
 #code that pairs well with the camhacker that gives you lon-lat location Btw, a 11 year old wrote this.
 import time
