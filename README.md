@@ -1,12 +1,6 @@
 How to put in longitude and latitude and reseve an address
 
-- 👋 Hi, I’m @pitester12
-- 👀 I’m interested in hacking
-- 🌱 I’m currently learning on kali linux deauthing and camera phishing
-- 💞️ I’m looking to collaborate on kali linux
-- 📫 How to reach me: email me oaktreepage@outlook.com or oaktreepage@gmail.com
-
-how to install: (Kali linux, Mint linux, Ubuntu and Debian linux
+how to install: (Kali linux, Mint linux, Ubuntu and Debian linux)
 
 sudo apt install pip && sudo pip install geopy && git clone https://github.com/pitester12/pitester12
 
